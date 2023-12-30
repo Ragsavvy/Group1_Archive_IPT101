@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "215945701878",
+    "project_id": "loginsignup-auth-146ad",
+    "storage_bucket": "loginsignup-auth-146ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215945701878:android:07e3aff39b5ad8b0927fd7",
+        "android_client_info": {
+          "package_name": "com.glenndely.loginsignupauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEKpLlYZNpFOPYKV9CEHZzrAy_nolY-bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
